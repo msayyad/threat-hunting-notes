@@ -16,3 +16,7 @@ mitre ATT&CK frameworks and navigator:
 Cheat sheets for various projects I contribute to (PowerView, PowerUp, Empire, and PowerSploit).
 https://github.com/HarmJ0y/CheatSheets
 https://github.com/Neo23x0
+
+Malware Research, Tools, Incident Response and Hunting
+https://blog.stillztech.com/
+
